@@ -85,7 +85,7 @@ ui <- fluidPage(theme = shinytheme("paper"),
                         
                         column(3,
                                
-                               h4("How to read:"),
+                               h4("How to read the graph:"),
                                includeMarkdown("explainer.md"),
                                br(),
                                br()
