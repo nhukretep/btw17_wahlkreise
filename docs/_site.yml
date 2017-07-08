@@ -1,6 +1,6 @@
 name: "#btw17 myWahlkreis"
 navbar:
-  title: "Content"
+  title: "myWahlkreis"
   left:
     - text: "Home"
       href: index.html
