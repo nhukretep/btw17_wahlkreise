@@ -1,1 +1,8 @@
-
+name: "#btw17 myWahlkreis"
+navbar:
+  title: "Content"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
