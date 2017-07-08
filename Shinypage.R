@@ -5,7 +5,7 @@
 
 #R script that only runs when app is first loaded
       ##Reading btw17_strukturdaten.csv file
-      strukturdaten<-read.csv("btw17_strukturdaten_UTF-8.csv", 
+      strukturdaten<-read.csv("data/btw17_strukturdaten_UTF-8.csv", 
                               header = T, 
                               sep = ";", 
                               skip = 8, 
